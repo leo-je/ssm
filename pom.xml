@@ -11,7 +11,7 @@
 	<properties>
 		<spring.version>4.3.8.RELEASE</spring.version>
 		<mybatis.version>3.5.6</mybatis.version>
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>1.7.1</shiro.version>
 		<slt4j.version>1.8.0-alpha2</slt4j.version>
 		<jersey.version>1.19.4</jersey.version>
 		<freemarker.version>2.3.23</freemarker.version>
